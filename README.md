@@ -12,6 +12,15 @@ The tool provides several key analyses:
 5. **Fisher Information**
 6. **Geodesic Analysis**
 
+## Interface
+
+**t-SNE, PCA, Autoencoder, applied towards capturing relationships between a 12-n cell assembly**
+![image](https://github.com/user-attachments/assets/ddd5a2cc-0c65-456d-b434-23266161b584)
+![image](https://github.com/user-attachments/assets/85f9f4d3-5c0b-472e-92cf-73a9a66f7e1b)
+![image](https://github.com/user-attachments/assets/aa923f62-7c74-4a58-ae79-f47d97a1cfe6)
+![image](https://github.com/user-attachments/assets/83e57db6-1612-4759-ad47-54d5b2f4eda7)
+
+
 ## Purpose
 
 The goal of IGNeuro is to offer a practical application of information geometry techniques for analyzing neuron firing patterns. This includes understanding how neurons interact, identifying underlying patterns, and exploring relationships within neural data. The tool is designed for both educational and research purposes, allowing users to:
